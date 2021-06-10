@@ -91,10 +91,7 @@ df.to_csv('n_effs_01csv')
 ##### How to use
 ##### mode
 ##### Structure
-![image](https://user-images.githubusercontent.com/80964488/121545451-8356f380-ca45-11eb-967f-4a7115f7fcf9.png) ![image](https://user-images.githubusercontent.com/80964488/121545462-8520b700-ca45-11eb-9e71-e9f79ca34c96.png) ![image](https://user-images.githubusercontent.com/80964488/121545475-881ba780-ca45-11eb-9969-d22fb45706fd.png)
-
-
-
+<img src = "https://user-images.githubusercontent.com/80964488/121545451-8356f380-ca45-11eb-967f-4a7115f7fcf9.png" width="60%" height="60%"> <img src = "https://user-images.githubusercontent.com/80964488/121545462-8520b700-ca45-11eb-9e71-e9f79ca34c96.png" width="60%" height="60%"> <img src = "https://user-images.githubusercontent.com/80964488/121545475-881ba780-ca45-11eb-9969-d22fb45706fd.png" width="60%" height="60%">
 
 ##### Parameter
 ##### Result
