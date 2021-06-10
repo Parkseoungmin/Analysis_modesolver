@@ -4,7 +4,7 @@
 #####
 + This repository can help you how to solve modes Silicon optical-waveguide by using modesolverpy which is an open-source code.
 
-###Project members
+### Project members
 + Seoungmin Park
 + Sanghoon Kim
 + Kangseok Kim
