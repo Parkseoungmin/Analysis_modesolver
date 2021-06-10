@@ -91,6 +91,10 @@ df.to_csv('n_effs_01csv')
 ##### How to use
 ##### mode
 ##### Structure
+![image](https://user-images.githubusercontent.com/80964488/121543944-476f5e80-ca44-11eb-8ecc-15737bae8156.png)
+![image](https://user-images.githubusercontent.com/80964488/121543992-535b2080-ca44-11eb-9f4d-b5b4719d514e.png)
+
+
 ##### Parameter
 ##### Result
 ***
