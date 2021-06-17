@@ -26,7 +26,11 @@
 
 ***
 ## Theory
-> +
+> <img src = "https://user-images.githubusercontent.com/80964488/122425682-a005a500-cfca-11eb-90a2-3369482e5cda.png" width = 300, height = 300>
+
+> <img src = "https://user-images.githubusercontent.com/80964488/122426071-ea872180-cfca-11eb-8832-9b72c77a7e1d.png" width = 300, height = 150>
+
+> <img src = "https://user-images.githubusercontent.com/80964488/122426212-04c0ff80-cfcb-11eb-8ad2-fd1413e5a8ad.png" width = 300, height = 150>
 #### modesolverpy
 > + photonic mode solver with a nice interface and output 
 > + simple structure drawing.
@@ -88,21 +92,17 @@ print(df.head(5))
 df.to_csv('n_effs_01csv')
 
  ```
-##### How to use
-##### mode
+
 ##### Structure
- example
-<img src = "https://user-images.githubusercontent.com/80964488/121545451-8356f380-ca45-11eb-967f-4a7115f7fcf9.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/80964488/121545462-8520b700-ca45-11eb-9e71-e9f79ca34c96.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/80964488/121545475-881ba780-ca45-11eb-9969-d22fb45706fd.png" width="30%" height="30%">
+> example
+>
+> <img src = "https://user-images.githubusercontent.com/80964488/121545451-8356f380-ca45-11eb-967f-4a7115f7fcf9.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/80964488/121545462-8520b700-ca45-11eb-9e71-e9f79ca34c96.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/80964488/121545475-881ba780-ca45-11eb-9969-d22fb45706fd.png" width="30%" height="30%">
 
 ##### Parameter
+> + slab
 ##### Result
  <img src = "https://user-images.githubusercontent.com/80964488/121543944-476f5e80-ca44-11eb-8ecc-15737bae8156.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/80964488/121543992-535b2080-ca44-11eb-9f4d-b5b4719d514e.png" width="50%" height="50%">
 
 
 
 ***
-
-
-***
-##### Conclusion
-   >- 
